@@ -44,5 +44,5 @@ You'll need to grab the installer for [MAMP](https://www.mamp.info/en/) and inst
 ### Boot up MAMP
 Find MAMP in your applications and start the app. Then click on the 'Start Servers' to initiate the MySQL and Apache server. 
 
-By default the servers are handled on port 8889. You can access [mySQL](http://localhost:8889/top) || (http://localhost:8889/weekly) for your databases.
+By default the servers are handled on port 8889. You can access [mySQL] (http://localhost:8889/top) || (http://localhost:8889/weekly) for your databases.
 
